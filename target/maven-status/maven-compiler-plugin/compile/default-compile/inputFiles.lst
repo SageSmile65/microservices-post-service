@@ -1,0 +1,8 @@
+/home/pathak/spring-boot-app/full-stack-bootcamp/microservices/post-service/post-service/src/main/java/akshat/post_service/PostServiceApplication.java
+/home/pathak/spring-boot-app/full-stack-bootcamp/microservices/post-service/post-service/src/main/java/akshat/post_service/configurations/RestClientConfiguration.java
+/home/pathak/spring-boot-app/full-stack-bootcamp/microservices/post-service/post-service/src/main/java/akshat/post_service/controller/PostController.java
+/home/pathak/spring-boot-app/full-stack-bootcamp/microservices/post-service/post-service/src/main/java/akshat/post_service/dtos/PostRequest.java
+/home/pathak/spring-boot-app/full-stack-bootcamp/microservices/post-service/post-service/src/main/java/akshat/post_service/mapper/PostMapper.java
+/home/pathak/spring-boot-app/full-stack-bootcamp/microservices/post-service/post-service/src/main/java/akshat/post_service/model/Post.java
+/home/pathak/spring-boot-app/full-stack-bootcamp/microservices/post-service/post-service/src/main/java/akshat/post_service/repository/PostRepository.java
+/home/pathak/spring-boot-app/full-stack-bootcamp/microservices/post-service/post-service/src/main/java/akshat/post_service/services/PostService.java

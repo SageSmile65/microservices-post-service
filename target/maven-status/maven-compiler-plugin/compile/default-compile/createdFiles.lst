@@ -1,0 +1,9 @@
+akshat/post_service/configurations/RestClientConfiguration.class
+akshat/post_service/mapper/PostMapperImpl.class
+akshat/post_service/controller/PostController.class
+akshat/post_service/model/Post.class
+akshat/post_service/dtos/PostRequest.class
+akshat/post_service/repository/PostRepository.class
+akshat/post_service/mapper/PostMapper.class
+akshat/post_service/PostServiceApplication.class
+akshat/post_service/services/PostService.class
