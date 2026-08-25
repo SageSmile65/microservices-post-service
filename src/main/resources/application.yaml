@@ -1,18 +1,5 @@
 spring:
   application:
     name: post-service
-
-
-  #defining configuration for the http client exchange------------->
-  http:
-    serviceclient:
-      user-service:
-        base-url: "http://localhost:8081"
-
-  datasource:
-    username: root
-    password: "Freedom@0"
-    url: jdbc:mysql://localhost:3306/post_db
-server:
-  port: 8080
-
+  config:
+    import: configserver:http://localhost:8888

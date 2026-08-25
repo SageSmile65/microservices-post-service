@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e5764bb0-a011-47d1-841e-d2249c2178ca" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +23,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -30,7 +33,7 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/SageSmile65/microservices.git&quot;,
+    &quot;url&quot;: &quot;https://github.com/SageSmile65/microservices-post-service.git&quot;,
     &quot;accountId&quot;: &quot;c590fdd4-fcba-40bc-abaa-6a44cad0c5b2&quot;
   }
 }</component>
@@ -43,61 +46,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.3032000478597865E-27" />
-      <entry key="MS500" value="4.1976112723012435E-6" />
-      <entry key="S2" value="0.04526375239018895" />
-      <entry key="S5" value="0.2899434702992428" />
-      <entry key="S10" value="0.5414144020557055" />
-      <entry key="S30" value="0.9607246709853935" />
-      <entry key="S60" value="1.5900505160408716" />
-      <entry key="M2" value="4.835419732357365" />
-      <entry key="M5" value="15.890517439154479" />
-      <entry key="M10" value="24.991454288472227" />
-      <entry key="M15" value="29.183770388400063" />
-      <entry key="M30" value="34.139280124074055" />
-      <entry key="H1" value="36.94661961171444" />
-      <entry key="H2" value="38.441225511512364" />
-      <entry key="H4" value="39.21241916364879" />
-      <entry key="D1" value="39.867583579195866" />
-      <entry key="W1" value="39.981054935959904" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0001608175324692" />
+      <entry key="S2" value="1.2718406044617445" />
+      <entry key="S5" value="2.4994228853414224" />
+      <entry key="S10" value="3.7192705426288066" />
+      <entry key="S30" value="5.074988504596262" />
+      <entry key="S60" value="5.524284820879596" />
+      <entry key="M2" value="6.326945444403256" />
+      <entry key="M5" value="13.986418242278525" />
+      <entry key="M10" value="27.850695960507313" />
+      <entry key="M15" value="37.00967646972695" />
+      <entry key="M30" value="50.36590246947443" />
+      <entry key="H1" value="59.2313103670954" />
+      <entry key="H2" value="64.35283390965716" />
+      <entry key="H4" value="67.10730194061935" />
+      <entry key="D1" value="69.5079800004244" />
+      <entry key="W1" value="69.92946481653632" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="1.0000000007831458" />
-      <entry key="MS500" value="1.0152027775366443" />
-      <entry key="S2" value="1.5145925436845977" />
-      <entry key="S5" value="2.3900807576661163" />
-      <entry key="S10" value="3.0442006479198915" />
-      <entry key="S30" value="4.341887136538267" />
-      <entry key="S60" value="5.66153957323371" />
-      <entry key="M2" value="7.742265695570517" />
-      <entry key="M5" value="11.998883012723345" />
-      <entry key="M10" value="15.092328668329243" />
-      <entry key="M15" value="16.478951958910912" />
-      <entry key="M30" value="18.10008427096956" />
-      <entry key="H1" value="19.012104056313355" />
-      <entry key="H2" value="19.49615000740631" />
-      <entry key="H4" value="19.74554522063857" />
-      <entry key="D1" value="19.957234803705433" />
-      <entry key="W1" value="19.993881904172706" />
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="1.2329102675448371E-93" />
+      <entry key="S5" value="1.3861137942544843E-37" />
+      <entry key="S10" value="8.454491067591313E-19" />
+      <entry key="S30" value="3.4488420389588457E-6" />
+      <entry key="S60" value="0.006149932012875475" />
+      <entry key="M2" value="0.3120399802554151" />
+      <entry key="M5" value="4.055864141290948" />
+      <entry key="M10" value="10.338840033119414" />
+      <entry key="M15" value="14.306596490331623" />
+      <entry key="M30" value="19.93947389143452" />
+      <entry key="H1" value="23.605817827564543" />
+      <entry key="H2" value="25.702975418151194" />
+      <entry key="H4" value="26.82528357785267" />
+      <entry key="D1" value="27.800465735066314" />
+      <entry key="W1" value="27.971401858755833" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="5.454144862921934E-9" />
-      <entry key="MS500" value="0.02319561316176395" />
-      <entry key="S2" value="0.7174869925865432" />
-      <entry key="S5" value="2.0945273730629443" />
-      <entry key="S10" value="3.209012143279418" />
-      <entry key="S30" value="5.1231826278137875" />
-      <entry key="S60" value="7.133905636720766" />
-      <entry key="M2" value="12.493390682055685" />
-      <entry key="M5" value="27.830643061820375" />
-      <entry key="M10" value="40.04449047114984" />
-      <entry key="M15" value="45.63347971421918" />
-      <entry key="M30" value="52.22293611554266" />
-      <entry key="H1" value="55.94999603939204" />
-      <entry key="H2" value="57.93287475293414" />
-      <entry key="H4" value="58.95567863223514" />
-      <entry key="D1" value="59.82443241299167" />
-      <entry key="W1" value="59.97488157754113" />
+      <entry key="MS100" value="2.1279009583804217E-19" />
+      <entry key="MS500" value="2.5178433837767583E-4" />
+      <entry key="S2" value="0.34592245502824476" />
+      <entry key="S5" value="1.833692472233" />
+      <entry key="S10" value="3.2910593011738185" />
+      <entry key="S30" value="4.902814224822001" />
+      <entry key="S60" value="5.439804559056061" />
+      <entry key="M2" value="6.5880570068009" />
+      <entry key="M5" value="17.99928602441764" />
+      <entry key="M10" value="38.14883922254778" />
+      <entry key="M15" value="51.280957515210496" />
+      <entry key="M30" value="70.28185754715322" />
+      <entry key="H1" value="82.82344778857333" />
+      <entry key="H2" value="90.04841762086375" />
+      <entry key="H4" value="93.9287418035018" />
+      <entry key="D1" value="97.30778367701052" />
+      <entry key="W1" value="97.90077155829697" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -109,27 +112,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "Spring Boot.PostServiceApplication.executor": "Run",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "Merging main",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;Spring Boot.PostServiceApplication.executor&quot;: &quot;Run&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <method v="2">
@@ -164,12 +167,18 @@
       <workItem from="1787548191931" duration="5701000" />
       <workItem from="1787559690103" duration="1596000" />
       <workItem from="1787561392451" duration="310000" />
-      <workItem from="1787571267805" duration="782000" />
+      <workItem from="1787571267805" duration="3024000" />
+      <workItem from="1787651814884" duration="657000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../.." />
+    </ignored-roots>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
