@@ -2,4 +2,15 @@ spring:
   application:
     name: post-service
   config:
-    import: configserver:http://localhost:8888
+    import: "optional:configserver:"
+  cloud:
+    config:
+      discovery:
+        enabled: true
+        service-id: config-server
+
+#configurations for eureka
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
